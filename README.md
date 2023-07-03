@@ -22,7 +22,6 @@ DracOS GNU/Linux Remastered Cheatsheet
   14. ``Windows + o`` : Deck
   15. ``Windows + c`` : Col
 
-source [Dracos Guide](https://github.com/dracos-linux/dracOs-documentation/blob/master/guide-pdf/dracOs_leak_Guide.pdf)
 
 ## Dracos Command
   1. ``startx`` for start GUI mode.
